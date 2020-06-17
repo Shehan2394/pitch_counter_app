@@ -75,7 +75,7 @@ class _HomeState extends State<Home> {
                     child: RaisedButton(
                         textColor: Colors.white,
                         color: Colors.blue,
-                        child: Text('Game List',
+                        child: Text('Game Lisst',
                           style: TextStyle(
                               fontSize: 20,
                               fontFamily: 'Bangers'
