@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1087463100424",
+    "firebase_url": "https://pitch-counter-app-3e342.firebaseio.com",
+    "project_id": "pitch-counter-app-3e342",
+    "storage_bucket": "pitch-counter-app-3e342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087463100424:android:ab717bea9d08e0177841bd",
+        "android_client_info": {
+          "package_name": "com.pitchcounter.pitchcounterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087463100424-njtvmpqsoam0mktffjkr8220o5k8o5lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOHdjWCQsK-W3FcT7jOvQ2BhZyyWrYIvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087463100424-njtvmpqsoam0mktffjkr8220o5k8o5lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
